@@ -35,17 +35,17 @@ body{
 
 #date{
   width: 100px;
-  height: 100px;
+  height: 30px;
 }
 
 #temp{
   width: 100px;
-  height: 100px;
+  height: 30px;
 }
 
 #content{
   width: 100px;
-  height: 100px;
+  height: 30px;
 }
 
 /*  Basic Styling To Override Default For Basic HTML Elements */
